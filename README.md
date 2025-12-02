@@ -1,6 +1,6 @@
 # Dailykart_Store_Data_Analysis
 
-Excel Data Analysis Project | white label store
+Excel Data Analysis Project | Daily kart
 
 Data Management: Cleaned and formatted complex sales datasets using advanced Excel functions (Text-to-Columns, Filters) to ensure data integrity.
 
